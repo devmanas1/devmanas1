@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Panigrahi</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
+
+ <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="devmanas1" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmanas1&label=Profile%20views&color=0e75b6&style=flat" alt="devmanas1" /> </p>
 
 - 🔭 I’m currently pursuing **Master of Computer Application (MCA)**
