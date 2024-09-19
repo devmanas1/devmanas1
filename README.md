@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Panigrahi</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A Certified Ehtical Hacker from India</h3>
 <br>
 
  <img align="right" width="370" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="devmanas1" />
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **Master of Computer Application (MCA)**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently preparing for **OSCP**
 
 - 📫 How to reach me **mrpmrp05@gmail.com**
 
