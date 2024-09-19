@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Panigrahi</h1>
-<h3 align="center">A Certified Ehtical Hacker from India</h3>
+<h3 align="center">A Certified Ethical Hacker from India</h3>
 <br>
 
  <img align="right" width="370" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="devmanas1" />
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently preparing for **OSCP**
 
-- 📫 How to reach me **mrpmrp05@gmail.com**
+- 📫 How to reach me **mmrrpp05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
