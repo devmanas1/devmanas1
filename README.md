@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently pursuing **Master of Computer Application (MCA)**
 
-- 🌱 I’m currently preparing for **OSCP**
+- 🌱 I've completed **CEH (Certified Ethical Hacker)** certification course.
 
-- 📫 How to reach me **mmrrpp05@gmail.com**
+- 📫 How to reach me **manas.cybersec@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/white.hat8080.png" alt="Your Image Badge" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmanas1&show_icons=true&locale=en&layout=compact" alt="devmanas1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmanas1&show_icons=true&locale=en" alt="devmanas1" /></p>
